@@ -1,2 +1,2 @@
 # Python
-### Aula Automação plataforma HashTag
+### Aula de Automação plataforma HashTag
